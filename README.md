@@ -26,3 +26,5 @@ WARNING
 Changing the threads too high may also nuke your device
 
 Changing the tries=5 too high may break the program
+
+DO NOT USE THIS ON ANYONE WITHOUT THEIR PERMISSION 
