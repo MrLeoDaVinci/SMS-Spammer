@@ -3,13 +3,18 @@ This tool was inspiered by https://github.com/1d8/sedoppkit
 
 I wanted to make the sms spammer better, and i have.
 
+----------
 USAGE
+
+python3 SMSNuke.py
 
 enter a usa phone number 
 
-ex 1112223333
+ex: 1112223333
 
 and let the nuke begin
+
+----------
 
 can also modify the threading for more nukage
 
