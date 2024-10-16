@@ -1,4 +1,4 @@
-# SMS-Spammer
+# SMS-Spammer (BROKEN)
 This tool was inspiered by https://github.com/1d8/sedoppkit
 
 I wanted to make the sms spammer better, and i have.
